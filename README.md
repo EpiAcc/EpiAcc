@@ -7,6 +7,9 @@
 
 <!---
 
+I always dreamed of how to build my "world" and my "characters" but never thought that reachable to build that at least for me, some time ago I started to question myself why?
+And after that start to build my "world" and my "characters", I want to improve every day because I want to give life to my world I want to be one of my characters.
+
 After two years of experience as a PL/SQL developer and supporter for
 Accenture, I came to Scotland to improve my English skills. I worked in a
 hotel and after that, I decided to embark on a new IT experience working as a
